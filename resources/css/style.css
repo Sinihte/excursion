@@ -1,1 +1,37 @@
-style.css
+body {
+	text-align:center;
+	background-color:black;
+}
+
+.verdana {
+	font-family:Verdana, Helvetica, sans-serif;
+}
+
+h1 {
+	font-weight:bold;
+	font-size:50px;
+	color:white;
+}
+
+.exc-dld {
+	color:aquamarine;
+	font-size:16px;
+}
+
+h2 {
+	font-weight:300;
+	font-size:42px;
+}
+
+p {
+	font-size:21px;
+	color:grey;
+}
+
+img {
+	margin:0 auto;
+}
+
+.exc-c {
+	text-align:right;
+}
